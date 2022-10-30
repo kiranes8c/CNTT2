@@ -1,0 +1,9 @@
+https://paperswithcode.com/datasets?task=machine-translation
+
+https://www.kaggle.com/general/253495
+
+https://www.kaggle.com/datasets/hungnm/englishvietnamese-translation?resource=download
+
+https://www.kaggle.com/code/minhhngchong/machine-translation-en-to-vi-with-attention
+
+https://www.kaggle.com/code/minhhngchong/machine-translation-en-to-vi-with-seq2seq
