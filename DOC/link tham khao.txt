@@ -7,3 +7,23 @@ https://www.kaggle.com/datasets/hungnm/englishvietnamese-translation?resource=do
 https://www.kaggle.com/code/minhhngchong/machine-translation-en-to-vi-with-attention
 
 https://www.kaggle.com/code/minhhngchong/machine-translation-en-to-vi-with-seq2seq
+
+
+BERT MODEL (tieng viet)
+https://phamdinhkhanh.github.io/2020/05/23/BERTModel.html
+https://www.transifex.com/blog/2015/machine-translation-101/
+https://nlp.stanford.edu/projects/mt.shtml
+https://viblo.asia/p/bert-buoc-dot-pha-moi-trong-cong-nghe-xu-ly-ngon-ngu-tu-nhien-cua-google-RnB5pGV7lPG
+https://phamdinhkhanh.github.io/2020/06/04/PhoBERT_Fairseq.html
+https://phamdinhkhanh.github.io/2020/05/23/BERTModel.html#24-next-sentence-prediction-nsp
+https://phamdinhkhanh.github.io/2019/06/18/AttentionLayer.html
+https://github.com/VinAIResearch/PhoBERT
+https://viblo.asia/p/bert-roberta-phobert-bertweet-ung-dung-state-of-the-art-pre-trained-model-cho-bai-toan-phan-loai-van-ban-4P856PEWZY3
+https://huggingface.co/blog/bert-101
+
+https://blog.vietnamlab.vn/ban-ve-cong-doan-tien-xu-ly-trong-xu-ly-ngon-ngu-tu-nhien/
+https://github.com/undertheseanlp/underthesea/wiki/#word-segmentation
+https://www.kaggle.com/code/minhhngchong/machine-translation-en-to-vi-with-seq2seq
+https://d2l.aivivn.com/chapter_recurrent-modern/machine-translation-and-dataset_vn.html
+https://d2l.aivivn.com/chapter_recurrent-neural-networks/text-preprocessing_vn.html
+
